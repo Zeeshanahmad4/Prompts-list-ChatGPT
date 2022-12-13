@@ -17,4 +17,4 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 ## Creating a three.js animation
 Create an HTML file with a rotating gold metal torus with lots of light in three js.
-Contributed by: [@f](https://twitter.com/paradoxrenders)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/36574348/207438426-35a44894-bc3c-41ad-948b-ff662b512529.gif)

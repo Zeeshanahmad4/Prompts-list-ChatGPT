@@ -1,5 +1,5 @@
 # Prompts-list-ChatGPT
-Welcome to the "list of Prompts-ChatGPT" This is a collection of prompt examples to be used with the ChatGPT model.
+Welcome to the "list of Prompts-ChatGPT" This is a list of prompt can be used with the ChatGPT model.
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 

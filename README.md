@@ -8,4 +8,4 @@ so everyone can experiance the true power of chatgpt [add your own prompts](http
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. 
 
-:star: Its a public repo please hit a star it can grow more :star:
+:star: Its a public repo please hit a star so it can grow more :star:
